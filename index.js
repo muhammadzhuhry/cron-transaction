@@ -2,7 +2,7 @@ const cron = require('node-cron');
 const nodemailer = require('nodemailer');
 
 // cron jobs
-const task = cron.schedule('01 12 * * *', function() {
+const task = cron.schedule('59 23 * * *', function() {
   sendEmail().then(console.log('success send email'));
 });
 
