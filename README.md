@@ -1,4 +1,4 @@
-# cron-transaction
+# :hourglass_flowing_sand: cron-transaction
 
 Code for cron jobs tutorial in nodejs.
 
