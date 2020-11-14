@@ -1,3 +1,6 @@
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)&nbsp;
+![HitCount](http://hits.dwyl.com/muhammadzhuhry/belajar-golang-dasar.svg)&nbsp;
+
 # :hourglass_flowing_sand: cron-transaction
 
 Code for cron jobs tutorial in nodejs.
